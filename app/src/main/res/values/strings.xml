@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondTest</string>
+    <string name="send">Send</string>
+    <string name="text">Text</string>
+    <string name="Switch">Switch</string>
+    <string name="Toggle">Toggle</string>
+
+</resources>
