@@ -7,8 +7,7 @@
 
     <Button
         android:layout_width="50dp"
-        android:layout_height="match_parent"
-        android:text="@string/send" />
+        android:layout_height="match_parent" />
 
     <LinearLayout
         android:layout_width="0dp"
